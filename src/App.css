@@ -5,7 +5,9 @@
 }
 
 .head-item {
-  padding-left:30px !important;
+  padding-left:20px !important;
+  color: rgb(128, 128, 128);
+  text-decoration: none;
 }
 
 .main-bg {
